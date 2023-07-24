@@ -1,0 +1,3 @@
+#javascript:
+-we need control in the input of text and the button...
+-"# showe-comment-" 
